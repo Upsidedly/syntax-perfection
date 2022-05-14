@@ -1,0 +1,27 @@
+{
+  "name": "syntax-perfection",
+  "version": "1.0.0",
+  "description": "Documentation of our attempt to create the **perfect syntax**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sided-studios/syntax-perfection.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Upsided"
+  },
+  "contributors": [
+    {
+      "name": "Moondark876"
+    }
+  ],
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sided-studios/syntax-perfection/issues"
+  },
+  "homepage": "https://github.com/sided-studios/syntax-perfection#readme"
+}
